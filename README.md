@@ -1,3 +1,6 @@
 Thomas Kakatsakis
 
 The Cascades mountains of the Pacific Northwest are highly vulnerable to the impacts of climate change, and increases in temperature have led to decreased snow and an uncertain future. A reduced snowpack has significant ramifications for the evolving ski and backcountry Winter recreation industry in Washington state. This research considers a changing natural landscape and its hydrological processes in the face of global climate change, from the lens of backcountry recreation. Geospatial analysis quantifies the extent to which the snowpack of the Cascades has been impacted by temperature increases using snow data from the NOHRSC and SNOTEL sites, and models its future state given predicted climate scenarios. The dynamics of winter backcountry recreation are discussed including increased usage, the effects of the COVID-19 pandemic, avalanche awareness and risk, and the existential threat to Pacific Northwest Winter recreation when mountain snowfall becomes rain.
+
+The research is presented on a website hosted by Github. It can be viewed at:
+[https://tkakatsakis.github.io/Snowpack-Recreation-Research-Project/research.html](https://tkakatsakis.github.io/Snowpack-Recreation-Research-Project/research.html). 
